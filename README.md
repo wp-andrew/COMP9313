@@ -1,0 +1,4 @@
+# COMP9313 - Big Data Management
+
+### Course Summary
+This course introduces the core concepts and technologies involved in managing Big Data. It will first introduce the characteristics of big data and big data analysis. Then, we will learn the open-source big data management framework Hadoop. We will mainly focus on the learning of Hadoop MapReduce, and HDFS, HBase, and Hive will be briefly introduced. We will also learn an open-source memory-based distributed computing framework Spark. Another major focus of this course is algorithm design on large-scale data sets based on the big data management frameworks, in a variety of domains such as link analysis, data stream mining, graph data processing, and recommender systems.

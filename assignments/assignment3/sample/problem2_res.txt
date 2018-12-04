@@ -1,0 +1,7 @@
+input node: 3466
+
+result: 4157
+
+input node: 15248
+
+result: 4
