@@ -4,8 +4,11 @@
 
 ### NOTABLE FILES
 _Screenshots/_ : Screenshots of the program running on AWS
+
 _Optimization.pdf_ : Brief description of optimization techniques used.
+
 _Runtime.jpg_ : Graph of runtime with different number of clusters.
+
 _SetSimJoin.scala_ : The file used to generate the .jar file
 
 ### AMAZON S3 SETUP
