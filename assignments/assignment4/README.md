@@ -3,13 +3,10 @@
 **SET SIMILARITY JOIN** is an algorithm to compute all pairs of similar sets from a collection of sets.
 
 ### NOTABLE FILES
-_Screenshots/_ : Screenshots of the program running on AWS
-
-_Optimization.pdf_ : Brief description of optimization techniques used.
-
-_Runtime.jpg_ : Graph of runtime with different number of clusters.
-
-_SetSimJoin.scala_ : The file used to generate the .jar file
+- _Screenshots/_ : Screenshots of the program running on AWS
+- _Optimization.pdf_ : Brief description of optimization techniques used.
+- _Runtime.jpg_ : Graph of runtime with different number of clusters.
+- _SetSimJoin.scala_ : The file used to generate the .jar file
 
 ### AMAZON S3 SETUP
 1. Open the Amazon S3 console
